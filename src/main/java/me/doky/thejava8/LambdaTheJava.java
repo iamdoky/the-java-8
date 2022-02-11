@@ -14,7 +14,7 @@ public class LambdaTheJava {
     }
 
     private void run() {
-        // final 생략 가능한 경우 -> 뒤에 값이 변경 하지 못하는 경우!!
+        // final 생략 가능한 경우 -> 뒤에 값이 변경 하지 못하는 경우!
         final int baseNumber = 10;      // 로컬변수
 
         // 로컬 클래스
