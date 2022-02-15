@@ -1,4 +1,4 @@
-package me.doky.thejava8;
+package me.doky.thejava8.lambda;
 
 // 추상메서드가 하나만 있으면 함수형 인터페이스
 @FunctionalInterface

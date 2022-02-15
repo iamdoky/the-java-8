@@ -1,4 +1,4 @@
-package me.doky.thejava8;
+package me.doky.thejava8.lambda;
 
 import java.util.function.Consumer;
 import java.util.function.IntConsumer;

@@ -1,4 +1,4 @@
-package me.doky.thejava8;
+package me.doky.thejava8.lambda;
 
 import java.util.Arrays;
 import java.util.function.Function;
