@@ -1,4 +1,4 @@
-package me.doky.thejava8.complatableFuture;
+package me.doky.thejava8.complatableFuture.Thread;
 
 public class App3 {
     public static void main(String[] args) throws InterruptedException {

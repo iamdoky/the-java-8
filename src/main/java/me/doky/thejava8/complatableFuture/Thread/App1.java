@@ -1,4 +1,4 @@
-package me.doky.thejava8.complatableFuture;
+package me.doky.thejava8.complatableFuture.Thread;
 
 public class App1 {
 
